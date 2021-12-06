@@ -1,4 +1,4 @@
-### Bonjour, bienvenue sur mon GitHub ! 👋
+### Bonjour, bienvenue sur mon profil GitHub ! 👋
 
 <!--
 **FloryssRu/FloryssRu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
