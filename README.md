@@ -1,6 +1,6 @@
 ### Bonjour, bienvenue sur mon profil GitHub ! 👋
 
-🔭 Développeuse PHP/Symfony et Angular, je vous propose ici en public mon dernier site réalisé avec Symfony 6.4 : <a href="https://github.com/FloryssRu/Recettes-symfony" target="blank">recettes-symfony</a>.
+🔭 Développeuse PHP/Symfony et Angular, je vous propose ici en public mon dernier site réalisé avec Symfony 6.4 : <a href="https://github.com/FloryssRu/Recettes-symfony" target="_blank">recettes-symfony</a>.
 
 🌱 Vous trouverez également les projets que j'ai réalisés pendant mon parcours OpenClassrooms PHP & Symfony.
 
